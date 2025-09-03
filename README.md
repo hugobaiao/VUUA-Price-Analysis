@@ -1,5 +1,7 @@
 # VUUA Data Analysis Project
 
+![Yearly Max and Min Price](https://i.imgur.com/9SnljDf.png)
+
 ## Overview
 This project focuses on analyzing VUUA stock price and volume data from January 2020 onwards. The goal is to create basic visualizations for key insights and explore advanced price analysis using PyTorch.
 
